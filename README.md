@@ -8,7 +8,7 @@
 |------|--------|----------|----------|
 | [table-layout-helper](https://github.com/xcloud-ai/table-layout-helper) | 表格布局助手 | 表头样式（首行/首列/颜色）+ 列宽拖拽记忆（拖拽显px/文件删除重命名自动卫生）+ 自适应铺开（百分比列宽跟随窗口）+ 自动适配幂等 + 双机同步，布局对齐设置，双视图实时生效，替代手写 CSS | 1.7.1 |
 | [xu-homepages](https://github.com/xcloud-ai/xu-homepages) | 启动台 | 单一主页启动接管、新标签页直达主页、恢复上次会话 | 2.0.2 |
-| [xu-quiet-outline](https://github.com/xcloud-ai/xu-quiet-outline) | 大纲 | 侧边栏大纲树：点击跳转、双向定位、层级滑条、拖拽改层级、双链标题着色、彩虹缩进线与样式定制，基于 quiet-outline 裁剪重构 | 1.1.5 |
+| [xu-quiet-outline](https://github.com/xcloud-ai/xu-quiet-outline) | 大纲 | 侧边栏大纲树：点击跳转、双向定位、层级滑条、拖拽改层级、双链标题着色、彩虹缩进线与样式定制，基于 quiet-outline 裁剪重构 | 1.1.6 |
 | [file-catalog](https://github.com/xcloud-ai/file-catalog) | 文件目录生成器 | 读取指定文件标题生成可点击目录树，代码块动态渲染、命令插入、快捷键定位，设置页 GitHub 操作手册入口 | 1.3.1 |
 | [quick-codeblock](https://github.com/xcloud-ai/quick-codeblock) | 代码块快捷插入 | 快捷插入代码块并自动定位光标，选中文本包裹，多语言独立命令，一键跳转系统快捷键设置，默认语言 python/shell/json/yaml | 1.2.8 |
 | [xu-view-mode](https://github.com/xcloud-ai/xu-view-mode) | 打开模式记忆 | frontmatter open-mode 定义打开时阅读/编辑模式，等价写法七值兼容，全局默认三选一，首次打开生效不打扰，性能无感 | 1.0.3 |
