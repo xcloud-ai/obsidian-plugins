@@ -15,7 +15,7 @@
 | [xu-mermaid-lazy-render](https://github.com/xcloud-ai/xu-mermaid-lazy-render) | 流程图懒加载 | 接管 Mermaid 渲染，视口外流程图延迟到滚动接近时渲染，图表多的笔记打开不卡顿；点击流程图全屏看大图（拖动平移、滚轮缩放、双击适应/原尺寸） | 1.1.0 |
 | [xu-number-headings](https://github.com/xcloud-ai/xu-number-headings) | 标题编号 | 标题多级数字编号，层级区间双滑条，frontmatter 按文档覆盖与 off 豁免，编辑 / 打开 / 外部修改（大纲拖拽联动，阅读模式经磁盘直写）后自动重编号，代码块与 frontmatter 保护区，单事务提交不污染撤销栈 | 1.1.5 |
 | [xu-config-transfer](https://github.com/xcloud-ai/xu-config-transfer) | 配置搬运工 | 多库配置迁移：勾选导出导入全局设置+插件数据，逐项详情预览、冲突标注（新增/覆盖/内容相同）、键级 diff 报告、覆盖自动备份一键还原 | 1.0.1 |
-| [xu-git-pull](https://github.com/xcloud-ai/xu-git-pull) | 远程资料拉取 | 从 GitHub / GitCode / Gitee 公开/私有仓库整仓浅克隆一键覆盖更新 vault，git 协议约 2 请求拉全仓不限流，Token 级联下拉选仓库/分支/子目录，进度可取消，手机平板只看资料同步 | 1.8.4 |
+| [xu-git-pull](https://github.com/xcloud-ai/xu-git-pull) | 远程资料拉取 | 从 GitHub / GitCode / Gitee 公开/私有仓库整仓浅克隆一键覆盖更新 vault，git 协议约 2 请求拉全仓不限流，Token 级联下拉选仓库/分支/子目录，进度可取消，手机平板只看资料同步 | 1.8.5 |
 
 ## 维护约定
 
